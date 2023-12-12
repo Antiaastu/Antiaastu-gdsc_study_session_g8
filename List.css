@@ -1,0 +1,21 @@
+.list{
+    font-size: 25px;  
+    
+}
+table {
+    width:100%;
+}
+h1{
+    background:radial-gradient(gray,yellow);
+    border-radius: 15px;
+    color:antiquewhite;
+    margin:20px auto;
+
+}
+td{
+    padding:10px;
+}
+tr:nth-child(odd){
+    background-color: rgb(203, 213, 219);
+    border-bottom:thin black solid;
+}
